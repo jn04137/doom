@@ -9,10 +9,10 @@
 ;; To install SOME-PACKAGE from MELPA, ELPA or emacsmirror:
 ;(package! some-package)
 
-(package! tsi :recipe (:host github :repo "orzechowskid/tsi.el" :branch "main"))
+;;(package! tsi :recipe (:host github :repo "orzechowskid/tsi.el" :branch "main"))
 (package! coverlay)
 (package! origami)
-(package! tsx-mode :recipe (:host github :repo "orzechowskid/tsx-mode.el" :branch "master"))
+;;(package! tsx-mode :recipe (:host github :repo "orzechowskid/tsx-mode.el" :branch "master"))
 
 ;; To install a package directly from a remote git repo, you must specify a
 ;; `:recipe'. You'll find documentation on what `:recipe' accepts here:
